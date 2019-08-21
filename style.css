@@ -1,0 +1,18 @@
+#first {
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#second {
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+div,
+html {
+    height: 100%;
+    background-color: rgb(202, 224, 150)
+}
